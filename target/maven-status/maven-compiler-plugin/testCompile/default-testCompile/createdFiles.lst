@@ -1,0 +1,8 @@
+com\loginpage\Loginpage.class
+com\pages\Linkchecks.class
+com\loginpage\BaseClass.class
+com\loginpage\Excelprovider.class
+com\loginpage\Configclass.class
+com\pages\Pageclass.class
+com\element\Webelements.class
+com\loginpage\Helerclass.class
