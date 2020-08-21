@@ -46,7 +46,7 @@ public class BaseClass
 	@AfterClass
 	public void closeup() throws Exception 
 	{
-		
+		System.out.println("stopping appp");
 		Pageclass.Stopapplication(driver);
 	}
 	@AfterMethod
