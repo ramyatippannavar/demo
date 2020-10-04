@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40808" started-at="2020-08-19T21:26:23 IST" finished-at="2020-08-19T21:27:04 IST">
+  <suite name="Suite" duration-ms="120064" started-at="2020-10-04T13:23:41 IST" finished-at="2020-10-04T13:25:41 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40808" started-at="2020-08-19T21:26:23 IST" finished-at="2020-08-19T21:27:04 IST">
+    <test name="Test" duration-ms="120064" started-at="2020-10-04T13:23:41 IST" finished-at="2020-10-04T13:25:41 IST">
       <class name="com.loginpage.Loginpage">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="setup" is-config="true" duration-ms="834" started-at="2020-08-19T21:26:22 IST" finished-at="2020-08-19T21:26:23 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="setup" is-config="true" duration-ms="1771" started-at="2020-10-04T13:23:39 IST" finished-at="2020-10-04T13:23:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="startup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="startup" is-config="true" duration-ms="18413" started-at="2020-08-19T21:26:23 IST" finished-at="2020-08-19T21:26:41 IST">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="startup" is-config="true" duration-ms="77691" started-at="2020-10-04T13:23:41 IST" finished-at="2020-10-04T13:24:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startup -->
-        <test-method status="PASS" signature="loginapp()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="loginapp" duration-ms="1505" started-at="2020-08-19T21:26:41 IST" finished-at="2020-08-19T21:26:43 IST">
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="loginapp" duration-ms="4456" started-at="2020-10-04T13:24:59 IST" finished-at="2020-10-04T13:25:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginapp -->
-        <test-method status="PASS" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="teardownmethod" is-config="true" duration-ms="18762" started-at="2020-08-19T21:26:43 IST" finished-at="2020-08-19T21:27:02 IST">
+        <test-method status="PASS" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="teardownmethod" is-config="true" duration-ms="34608" started-at="2020-10-04T13:25:04 IST" finished-at="2020-10-04T13:25:38 IST">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownmethod -->
-        <test-method status="PASS" signature="closeup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="closeup" is-config="true" duration-ms="2091" started-at="2020-08-19T21:27:02 IST" finished-at="2020-08-19T21:27:04 IST">
+        <test-method status="PASS" signature="closeup()[pri:0, instance:com.loginpage.Loginpage@1c6f14e]" name="closeup" is-config="true" duration-ms="2236" started-at="2020-10-04T13:25:38 IST" finished-at="2020-10-04T13:25:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeup -->

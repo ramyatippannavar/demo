@@ -17,6 +17,7 @@ public class Loginpage extends BaseClass
 		wb.setup(excel.getstringdata("Sheet1", 0, 0), excel.getstringdata("Sheet1", 0, 1));
 		Thread.sleep(1000);   
 		test.pass("passed");
+		System.out.println("added");
 		
 	}
 }
